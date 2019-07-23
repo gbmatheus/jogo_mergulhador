@@ -1,0 +1,6 @@
+bin/
+.settings/
+.classpath
+.project
+arquivo.txt
+rank.txt
